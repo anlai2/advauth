@@ -1,4 +1,5 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
-functions/**/*
+functions/node_modules
+functions/service_account.json

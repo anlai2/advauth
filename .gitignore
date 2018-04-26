@@ -3,4 +3,5 @@ node_modules/**/*
 npm-debug.*
 functions/node_modules
 functions/service_account.json
+functions/twilio.js
 firebase-debug.log
